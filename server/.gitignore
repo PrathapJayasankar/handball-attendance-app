@@ -1,0 +1,13 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# OS / system files
+.DS_Store
+Thumbs.db
+
+# Local cache or temp files
+AppData/
+*.log
